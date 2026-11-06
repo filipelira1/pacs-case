@@ -74,7 +74,7 @@ flowchart LR
 
 | | |
 |---|---|
-| Testes automatizados do produto | **445** verdes, entre eles **10 cenários** do fluxo de imagem (caminho certo e caminhos errados) |
+| Testes automatizados do produto | **461** verdes (até 06/11/2026), entre eles **10 cenários** do fluxo de imagem (caminho certo e caminhos errados) |
 | Teste de ponta a ponta em navegador real | **38 conferências**, com o servidor de imagens e o aparelho simulado de verdade |
 | Caminhos errados testados | paciente trocado no aparelho, número de acesso desconhecido, aviso sem a senha do servidor, pedido cancelado, servidor fora do ar, laudo ditado sem conferência, pessoa que não pediu marcando "visto", comparação com exame de outro paciente |
 | Defeitos que só o navegador achou | 3, corrigidos antes da entrega |
